@@ -1,18 +1,18 @@
 # USTC_auto_report
 
-##简述
+## 简述
 中科大健康打卡selenium版
 推荐挂在吃灰的服务器上
 
-##使用方法
+## 使用方法
 1. 下载安装chromedriver
-    ###下载
-    ####CDN
+    ### 下载
+    #### CDN
    `wget https://v.srprpr.ga/chromedriver`
-    ####github
+    #### github
     `wget https://`
     
-    ###安装
+    ### 安装
     `mv chromedriver /usr/bin`
 2. 安装python3，selenium库
     ---
