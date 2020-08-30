@@ -15,18 +15,18 @@
     ### 安装
     `mv chromedriver /usr/bin`
 2. 安装python3，selenium库
-    ---
+    ```bash
     yum install python3
     pip3 install selenium
-    ---
+    ```
     
 3. 下载py脚本文件，填入账号密码。
 
 4. 安装设置定时任务
-    ---
+    ```bash
     yum install crontabs
     crontab -e
-    ---
+    ```
     在下面添加一行
     `0 0,6,12,18 * * * /usr/bin/python3 py脚本所在路径(绝对路径)`
     即可
