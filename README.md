@@ -10,7 +10,7 @@
     #### CDN
    `wget https://v.srprpr.ga/chromedriver`
     #### github
-    `wget https://`
+    `wget https://github.com/pipixia244/USTC_auto_report/blob/master/chromedriver?raw=true`
     
     ### 安装
     `mv chromedriver /usr/bin`
