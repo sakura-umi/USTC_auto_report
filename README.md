@@ -19,7 +19,9 @@
     yum install python3
     pip3 install selenium
     ---
+    
 3. 下载py脚本文件，填入账号密码。
+
 4. 安装设置定时任务
     ---
     yum install crontabs
