@@ -1,8 +1,8 @@
 # USTC_auto_report
 
 ## 简述
-中科大健康打卡selenium版
-推荐挂在吃灰的服务器上
+中科大健康打卡selenium版<br>
+推荐挂在吃灰的服务器上<br>
 **现在可以挂载在vlab服务器上**
 
 ## 使用方法
