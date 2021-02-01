@@ -8,7 +8,7 @@ passwd="xxxxxx"
 # 创建chrome参数对象
 opt = webdriver.ChromeOptions()
 
-opt.set_headless()#设置无界面模式，windows开启会出现跨域cookie报错需要关闭，linux可以正常开启，自动适配对应参数
+opt.headless = True #设置无界面模式，windows开启会出现跨域cookie报错需要关闭，linux可以正常开启，自动适配对应参数
 opt.add_argument('--no-sandbox')
 opt.add_argument('--disable-gpu')
 opt.add_argument('--hide-scrollbars')
