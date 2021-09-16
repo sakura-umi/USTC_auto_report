@@ -1,4 +1,4 @@
-# USTC_auto_report
+# 已经弃置. 请使用新版可部署Github Action的[自动打卡](https://github.com/pipixia244/South_Seven-AutoReport)
 
 ## 简述
 中科大健康打卡selenium版<br>
